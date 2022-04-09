@@ -4,6 +4,7 @@ null - The open security community is one of the most active and vibrant communi
 awareness. All our activities such as null Monthly Meets, null Humla, null Bachaav, null Puliya, null Job Portal are for the cause of that.
 
 null is now focusing on contributing to enterprise security. Working on many projects to collaborate with the enterprise, such as:
+
 ● Defining security frameworks and standards for producing security guidelines
 in the upcoming IT technology like Cloud, Blockchain/Cryptography, IoT,
 AI/ML, and many more.
